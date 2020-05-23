@@ -1,3 +1,3 @@
-import * as recurly from "./node_modules/recurly/lib/recurly.js";
+import * as recurly from './recurly/lib/recurly.js';
 
 console.log(recurly);
